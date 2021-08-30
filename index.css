@@ -1,0 +1,28 @@
+html{
+    background-color: rgb(185, 185, 185);
+    color: rgb(0, 0, 0);
+}
+
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#epi{
+    margin-left: 5%;
+}
+
+#prod
+{
+    
+}
